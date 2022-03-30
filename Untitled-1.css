@@ -1,0 +1,7 @@
+@import url(destyle.css);
+
+header h1 {
+    font-size: 4rem;
+    font-weight: bolder;
+    color: blue
+}
